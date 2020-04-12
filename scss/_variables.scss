@@ -1,0 +1,14 @@
+$base-space: 16px !default;
+$space-xs: $base-space / 4;
+$space-s: $base-space / 2;
+$space-m: $base-space;
+$space-l: $base-space * 2;
+$space-xl: $base-space * 4;
+
+$spaces: (
+        "xs": $space-xs,
+        "s": $space-s,
+        "m": $space-m,
+        "l": $space-l,
+        "xl": $space-xl
+    );
